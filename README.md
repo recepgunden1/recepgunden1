@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=recepgunden1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-</div>
-
-###
-
 <img align="right" height="204" src="https://ih0.redbubble.net/image.2189776566.6167/raf,360x360,075,t,fafafa:ca443f4786.jpg"  />
 
 ###
@@ -65,7 +59,7 @@
 </div>
 
 ###
-<br></br>
+
 <div align="center">
   <img height="250" src="https://i.pinimg.com/originals/9f/5e/9a/9f5e9a0110c155970eb83a57c1bd5150.gif"  />
 </div>
