@@ -1,4 +1,4 @@
-<h2 align="left">Hello !!!<br>My name is Recep, I am a Python programmer and I enjoy making software...<br>I am happy to work as a team and I am looking for a teammate, I love research.</h2>
+<h2 align="left">As a passionate software developer, I focus on strengthening my position in the industry with creative and sustainable solutions.</h2>
 
 ###
 
