@@ -61,10 +61,7 @@
 </div>
 
 ###
-<br></br>
-<div align="center">
-  <img height="250" src="https://i.pinimg.com/originals/9f/5e/9a/9f5e9a0110c155970eb83a57c1bd5150.gif"  />
-</div>
+
 
 ###
 
