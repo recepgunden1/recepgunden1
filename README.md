@@ -2,7 +2,6 @@
 
 ###
 
-<img align="right" height="204" src="https://ih0.redbubble.net/image.2189776566.6167/raf,360x360,075,t,fafafa:ca443f4786.jpg"  />
 
 ###
 
