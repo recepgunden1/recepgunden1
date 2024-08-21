@@ -68,8 +68,3 @@
 
 ###
 
-<div align="center">
-  <img height="250" src="https://3dduvarkagitlari.com/Content/images/2020/5/3/l/3dduvarkagitlari-3eda923b.jpg"  />
-</div>
-
-###
